@@ -61,7 +61,6 @@ window.PorfolioConfig = {
   ],
   contacts: {
     email: 'roypushpesh@gmail.com',
-    mobileNo: '+91 7061983827',
     links: [
       {
         name: 'GitHub',
